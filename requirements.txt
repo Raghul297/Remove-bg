@@ -1,5 +1,0 @@
-flask
-cloudinary
-pillow
-rembg
-gunicorn
